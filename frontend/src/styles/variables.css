@@ -1,0 +1,16 @@
+/* src/styles/variables.css */
+
+:root {
+  --bg: #f7f7fb;
+  --card: #ffffff;
+  --ink: #111827;
+  --muted: #6b7280;
+  --brand: #2563eb;
+  --brand-2: #10b981;
+  --border: #e5e7eb;
+  --accent: #f59e0b;
+
+  --radius: 16px;
+
+  --font-sans: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}

@@ -1,0 +1,13 @@
+/* src/styles/theme.css */
+
+:root {
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --bg: #111827;
+  --card: #1f2937;
+  --ink: #f9fafb;
+  --muted: #9ca3af;
+  --border: #374151;
+}
